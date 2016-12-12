@@ -8,4 +8,9 @@ https://github.com/wearenocomputer/ncGIFTOMP4Exporter/releases/tag/RELEASE
 2. Start the program, press 's'
 3. Watch how your converted gifs are added in the data/mp4s folder
 
+This software was made with:
+
+openFramworks: http://openframeworks.cc
+ffmpeg: https://ffmpeg.org
+
 Enjoy!
