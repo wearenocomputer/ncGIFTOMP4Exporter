@@ -11,6 +11,7 @@ https://github.com/wearenocomputer/ncGIFTOMP4Exporter/releases/tag/RELEASE
 This software was made with:
 
 openFramworks: http://openframeworks.cc
+
 ffmpeg: https://ffmpeg.org
 
 Enjoy!
